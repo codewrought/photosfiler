@@ -1,7 +1,5 @@
 # photosfiler
-Apple Script for filing photos in a specific directory structure as well as naming scheme
-
-This Apple Script is for Mac OSX only.
+Mac OSX Apple Script for filing photos in a specific directory structure as well as naming scheme
 
 To use:
 <ol>
