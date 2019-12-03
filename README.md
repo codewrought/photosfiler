@@ -6,8 +6,8 @@ This Apple Script is for Mac OSX only.
 To use:
 <ol>
   <li> Create a repository folder for your photos/videos (e.g. "photos").
-  <li> Copy the "photosfiler" Apple script to the repository above.
-  <li> Edit the parameters at the top of the "photosfiler" file in Script Editor to match your folder names (look for "CHANGEME".
+  <li> Copy the "photosfiler.scpt" Apple script to the repository above.
+  <li> Edit the parameters at the top of the "photosfiler.scpt" file in Script Editor to match your folder names (look for "CHANGEME".
   <li> In the same folder, create a sub-folder called "drop". This is where you will drop all your photos at first and then they get filed to the right places after the script is run.
   <li> Use the Image Capture app to download all the photos from your device (including iPad & iPhone) into the "drop" folder.
   <li> Run the script.
