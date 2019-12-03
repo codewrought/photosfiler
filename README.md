@@ -1,5 +1,13 @@
 # photosfiler
-Mac OSX Apple Script for filing photos in a specific directory structure as well as naming scheme
+Mac OSX Apple Script for filing photos in a specific directory structure as well as naming scheme.
+
+How the files are sorted and renamed:
+<ul>
+  <li> The script will create the necessary folders under your main respository folder by year and date. Then the files will be moved to the right folder based on the date that the photo/video was taken.
+  <li> Each file is also renamed to the date & time the photo/video was taken.
+  <li> Folder name format: /Volumes/[drive-name]/[repository folder]/[YYYY]/[YYYY_MM_DD][folder post-fix] (e.g. "2019_12_25 - Christmas Photos")
+  <li> File name format: [YYYYMMDDHHMMSS].[file-extension] (e.g. "20191225111105.JPG")
+</ul>
 
 To use:
 <ol>
@@ -12,10 +20,4 @@ To use:
   <li> Enter the name of the post-fix for the folder names that will created.
 </ol>
 
-How the files are sorted and renamed:
-<ul>
-  <li> The script will create the necessary folders under your main respository folder by year and date. Then the files will be moved to the right folder based on the date that the photo/video was taken.
-  <li> Each file is also renamed to the date & time the photo/video was taken.
-  <li> Folder name format: /Volumes/[drive-name]/[repository folder]/[YYYY]/[YYYY_MM_DD][folder post-fix] (e.g. "2019_12_25 - Christmas Photos")
-  <li> File name format: [YYYYMMDDHHMMSS].[file-extension] (e.g. "20191225111105.JPG")
-</ul>
+
