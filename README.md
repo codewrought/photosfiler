@@ -1,5 +1,5 @@
 # photosfiler
-Mac OSX Apple Script for filing photos in a specific directory structure as well as naming scheme.
+Mac OSX Apple Script for filing photos in a date-encoded directory structure and file naming scheme.
 
 How the files are sorted and renamed:
 <ul>
