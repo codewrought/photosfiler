@@ -21,15 +21,16 @@ will be moved to the right folder based on the date that the photo/video was tak
 To use:
 <ol>
   <li> Create a repository folder for your photos or videos (e.g. "photos") in your hard drive's root folder.
+  <li> In the same folder, create a sub-folder called "drop". This is where you will drop all your photos at first and
+then they get filed to the right places after the script is run.
   <li> Copy the "photosfiler.scpt" Apple script to any location on your Mac drive.
   <li> Edit the parameters at the top of the "photosfiler.scpt" file in Script Editor to match your folder names (look
 for "CHANGEME".
-  <li> In the same folder, create a sub-folder called "drop". This is where you will drop all your photos at first and
-then they get filed to the right places after the script is run.
   <li> Use the Image Capture app to download all the photos from your device (including iPad & iPhone) into the "drop"
 folder.
   <li> Run the script.
-  <li> Enter the name of the post-fix for the folder names that will created.
+  <li> In the dialog, enter the name of the post-fix for the folder names that will created.
+  <li> Press the "Ok" button.
 </ol>
 
 
