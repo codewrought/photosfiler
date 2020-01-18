@@ -21,7 +21,7 @@ will be moved to the right folder based on the date that the photo/video was tak
 To use:
 <ol>
   <li> Create a repository folder for your photos or videos (e.g. "photos") in your hard drive's root folder.
-  <li> Copy the "photosfiler.scpt" Apple script to the repository folder above.
+  <li> Copy the "photosfiler.scpt" Apple script to any location on your Mac drive.
   <li> Edit the parameters at the top of the "photosfiler.scpt" file in Script Editor to match your folder names (look
 for "CHANGEME".
   <li> In the same folder, create a sub-folder called "drop". This is where you will drop all your photos at first and
