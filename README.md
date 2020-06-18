@@ -5,7 +5,7 @@ If you're using a Mac and you don't want to use the Photos app (e.g. because you
 your photos/videos, you don't have a lot of choices. I previously used a free app from Nikon called Nikon Transfer 2, a part
 of the Nikon ViewNX-i suite of applications, to download and then file the content on my local drive, but since Mac OSX High Sierra, it hasn't been able to connect to my iPhone (or other i-Devices). This script mimics Nikon Transfer 2's capabilities, but you must first download the files into a temporary "drop" folder somewhere using Apple's Image Capture app:<p>
 <img src="https://help.apple.com/assets/5C5A01110946220E5E964148/5C5A01130946220E5E96414F/en_US/d0f491b70741aca65288cbf6f4117dbe.png" alt="Image Capture App" width=60><p> 
-Run the script and then the files will get moved and renamed according to the patterns outlined below.<p>
+After the files are downloaded to the "drop" folder, run the photosfiler Apple Script, follow the prompts and the files will get moved and renamed according to the patterns outlined below.<p>
 
 How the files are sorted and renamed:
 <ul>
